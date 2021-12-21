@@ -123,7 +123,3 @@ docker run -p 8080:8080 cnic_extraction
 ![image](https://user-images.githubusercontent.com/30461028/98629507-d5faf080-233a-11eb-91aa-07e2acefbeb4.png)
 
 
-
- 
-## Enjoy
-if you have any query regarding this project, please feel free to ask us at khizarsultan@addo.ai or usmanfarooq@addo.ai
